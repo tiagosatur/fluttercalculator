@@ -2,6 +2,8 @@
 
 This calculator is my first Flutter app.
 
+![](https://s5.gifyu.com/images/calculator.md.gif)
+
 ## Getting Started
 
 Run on terminal to see if everything is ok:
